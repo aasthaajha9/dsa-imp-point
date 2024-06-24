@@ -1,5 +1,5 @@
 # dsa-doubts to ask 
-Sure! Here are ten challenging C++ questions that can help you test and improve your understanding of the language, particularly focusing on data structures and algorithms:
+
 
 1. **Implement a Trie (Prefix Tree)**
    - Implement a Trie with insert, search, and startsWith methods.
